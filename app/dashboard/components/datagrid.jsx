@@ -12,7 +12,7 @@ const Datagrid = () => {
     useEffect(() => {
         const fetchExcelFile = async () => {
             try {
-                const fileUrl = process.env.NEXT_PUBLIC_EXCEL_FILE_URL;
+                const fileUrl = process.env.NEXT_PUBLIC_xslxURL;
     
                 if (!fileUrl) {
                     throw new Error("Excel file URL is not defined in environment variables");
