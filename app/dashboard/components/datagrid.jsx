@@ -9,7 +9,7 @@ const Datagrid = (props) => {
     const [rows, setRows] = useState([])
     const [cols, setCols] = useState([])
     useEffect(() => {
-        fetch('CLIENTS.xlsx').then(res => {
+        fetch('./CLIENTS.xlsx').then(res => {
             return res.blob();
         }).then(res => {
             let reader = new FileReader();
