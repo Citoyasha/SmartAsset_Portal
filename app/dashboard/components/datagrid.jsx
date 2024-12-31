@@ -6,46 +6,62 @@ import '../page.css'
 import { ExcelRenderer, OutTable } from 'react-excel-renderer';
 
 const Datagrid = (props) => {
-    const [rows, setRows] = useState([])
-    const [cols, setCols] = useState([])
+    const [rows, setRows] = useState([]);
+    const [cols, setCols] = useState([]);
+
     useEffect(() => {
-        fetch('./CLIENTS.xlsx').then(res => {
-            return res.blob();
-        }).then(res => {
-            let reader = new FileReader();
-            reader.readAsArrayBuffer(res);
-            reader.onload = (e) => {
-                const workbook = XLSX.read(e.target.result, { type: 'blob' });
-                const worksheet = workbook.Sheets[props.username.SheetName];
-                const workbookk = XLSX.utils.book_new();
-                XLSX.utils.book_append_sheet(workbookk, worksheet, "Sheet 1")
-                const excelBuffer = XLSX.write(workbookk, { bookType: 'xlsx', type: 'array' });
-                const blob = new Blob([excelBuffer], { type: 'application/octet-stream' });
-                ExcelRenderer(blob, (err, resp) => {
-                    console.log("Rows:", rows);
-console.log("Columns:", cols);
-                    if (err) {
-                        console.log(err);
-                    }
-                    else {
-                        console.log(resp)
-                        setCols(resp.cols)
-                        setRows(resp.rows)
-                    }
-                });
+        const fetchExcelFile = async () => {
+            try {
+                // Fetch the Excel file via your serverless function
+                const response = await fetch('/portail-smart-asset-blob/CLIENTS.xlsx');
+                if (!response.ok) { 
+                    throw new Error('Failed to fetch Excel file');
+                }
+
+                // Read the file as a Blob
+                const blob = await response.blob();
+                const reader = new FileReader();
+                reader.readAsArrayBuffer(blob);
+
+                reader.onload = (e) => {
+                    const workbook = XLSX.read(e.target.result, { type: 'array' });
+                    const worksheet = workbook.Sheets[props.username.SheetName];
+                    
+                    const excelBuffer = XLSX.write(workbook, { bookType: 'xlsx', type: 'array' });
+                    const processedBlob = new Blob([excelBuffer], { type: 'application/octet-stream' });
+
+                    ExcelRenderer(processedBlob, (err, resp) => {
+                        if (err) {
+                            console.error(err);
+                        } else {
+                            setCols(resp.cols);
+                            setRows(resp.rows);
+                        }
+                    });
+                };
+            } catch (error) {
+                console.error("Error fetching or processing the Excel file:", error);
             }
-        });
-    }, [])
+        };
+
+        fetchExcelFile();
+    }, [props.username.SheetName]);
+
     return (
         <div>
             <div className="userbutton">
                 <UserButton afterSignOutUrl="/" />
             </div>
             <div className="table">
-                <OutTable data={rows} columns={cols} tableClassName="ExcelTable2007" tableHeaderRowClass="heading" />
+                <OutTable
+                    data={rows}
+                    columns={cols}
+                    tableClassName="ExcelTable2007"
+                    tableHeaderRowClass="heading"
+                />
             </div>
         </div>
-    )
-}
+    );
+};
 
-export default Datagrid
+export default Datagrid;
