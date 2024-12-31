@@ -1,0 +1,4168 @@
+{
+    "BEN HALIMA AICHA": [
+        {
+            "Col1": "FCP TRACKER",
+            "Col5": 4109.328,
+            "Col6": 0.04771276542822853,
+            "Column8": "N Client"
+        },
+        {
+            "Col1": "NOMVAL",
+            "Col2": "COURS",
+            "Col3": "QTITEVAL",
+            "Col4": "COURMOY",
+            "Col5": "Valorisation",
+            "Col6": "Poids",
+            "Column8": 7
+        },
+        {
+            "Col1": "FCP SMART TRACKER FUND",
+            "Col2": 1027.332,
+            "Col3": 4,
+            "Col4": 1003.206,
+            "Col5": 4109.328,
+            "Col6": 0.04771276542822853
+        },
+        null,
+        {
+            "Col1": "Tresorie +FCP EQUILIBRE",
+            "Col5": 79486.626901781,
+            "Col6": 0.9229068071582012
+        },
+        {
+            "Col1": "NOMVAL",
+            "Col2": "COURS",
+            "Col3": "QTITEVAL",
+            "Col4": "COURMOY",
+            "Col5": "Valorisation",
+            "Col6": "Poids"
+        },
+        {
+            "Col1": "TRESORERIE",
+            "Col5": 2547.247901781,
+            "Col6": 0.029575697443772843
+        },
+        null,
+        {
+            "Col1": "FCP Equilibre"
+        },
+        {
+            "Col1": "NOMVAL",
+            "Col2": "COURS",
+            "Col3": "QTITEVAL",
+            "Col4": "COURMOY",
+            "Col5": "Valorisation",
+            "Col6": "Poids"
+        },
+        {
+            "Col1": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Col2": 114.323,
+            "Col3": 673,
+            "Col4": 103.184602197726,
+            "Col5": 76939.379,
+            "Col6": 0.8933311097144283
+        }
+    ],
+    "ASSURANCE COMAR": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1196841.78": "Valorisation",
+            "10.329%": "Poids",
+            "N Client": 8
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 1165,
+            "Column4": 1027.63279914163,
+            "1196841.78": 1196841.78,
+            "10.329%": 0.10329016865161461
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "1196841.78": 2377726.324886033,
+            "10.329%": 0.20520319160721656
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1196841.78": "Valorisation",
+            "10.329%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "1196841.78": -438392.134113967,
+            "10.329%": -0.037834238597664015
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1196841.78": "Valorisation",
+            "10.329%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 24633,
+            "Column4": 112.861,
+            "1196841.78": 2816118.459,
+            "10.329%": 0.24303743020488058
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "1196841.78": 679065.25,
+            "10.329%": 0.058604876074722964
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1196841.78": "Valorisation",
+            "10.329%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 2418,
+            "Column4": 107.851,
+            "1196841.78": 265087.758,
+            "10.329%": 0.02287767663934526
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 41,
+            "Column4": 10016.0953414634,
+            "1196841.78": 413977.492,
+            "10.329%": 0.0357271994353777
+        }
+    ],
+    "SMART FINANCE": [
+        {
+            "OPCVM": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "81872.406": "Valorisation",
+            "100.000%": "Poids",
+            "N Client": 15
+        },
+        {
+            "OPCVM": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 10,
+            "Column4": 102.265,
+            "81872.406": 1096.31,
+            "100.000%": 0.013390470091051012
+        },
+        {
+            "OPCVM": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 8,
+            "Column4": 10083.666,
+            "81872.406": 80776.096,
+            "100.000%": 0.9866095333982774
+        }
+    ],
+    "TUNISIE VALEURS": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "210603.06": "Valorisation",
+            "100%": "Poids",
+            "N Client": 17
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 205,
+            "Column4": 978.912,
+            "210603.06": 210603.06000000003,
+            "100%": 0.9999999983205659
+        }
+    ],
+    "STRATEGIE ACTIONS SICAV": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "51366.6": "Valorisation",
+            "100%": "Poids",
+            "N Client": 18
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 50,
+            "Column4": 996.342153846154,
+            "51366.6": 51366.600000000006,
+            "100%": 1.000000004516749
+        }
+    ],
+    "AMEN BANQUE": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "414014.796": "Valorisation",
+            "95.159%": "Poids",
+            "N Client": 22
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 403,
+            "Column4": 995.566047146402,
+            "414014.796": 414014.79600000003,
+            "95.159%": 0.9515942843757553
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "414014.796": 21060.112,
+            "95.159%": 0.04840571496752318
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "414014.796": "Valorisation",
+            "95.159%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 100,
+            "Column4": 100,
+            "414014.796": 10963.1,
+            "95.159%": 0.0251981895329167
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10000,
+            "414014.796": 10097.012,
+            "95.159%": 0.023207525434606482
+        }
+    ],
+    "BEN JEMAA KHALED": [
+        {
+            "100%": "Poids",
+            "N Client": 45
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "11353.04646": -422.222535044944,
+            "100%": -0.0371902410818342
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "11353.04646": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 103,
+            "Column4": 111.905163461538,
+            "11353.04646": 11775.268999999998,
+            "100%": 1.0371902410818343
+        }
+    ],
+    "TMIMI KARIM": [
+        {
+            "0.1318%": "Poids",
+            "N Client": 46
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "168.2774212": -403.337578843348,
+            "0.1318%": -0.0031599526371893006
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "168.2774212": "Valorisation",
+            "0.1318%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 5,
+            "Column4": 109.846423898386,
+            "168.2774212": 571.615,
+            "0.1318%": 0.004478323918854337
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "168.2774212": 75722.11,
+            "0.1318%": 0.5932456922913484
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "168.2774212": "Valorisation",
+            "0.1318%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 46,
+            "Column4": 108.915,
+            "168.2774212": 5043.026,
+            "0.1318%": 0.03950964190793507
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 7,
+            "Column4": 10004.3487142857,
+            "168.2774212": 70679.084,
+            "0.1318%": 0.5537360503834133
+        }
+    ],
+    "BEN JEMAA MOTORS SA": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "230122.368": "Valorisation",
+            "19.957%": "Poids",
+            "N Client": 50
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 224,
+            "Column4": 993.400415178571,
+            "230122.368": 230122.36800000002,
+            "19.957%": 0.19956608849818205
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "230122.368": 530769.9432398602,
+            "19.957%": 0.4602928536906982
+        },
+        {
+            "19.957%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "230122.368": 1225.8072398603,
+            "19.957%": 0.0010630411908140666
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "230122.368": "Valorisation",
+            "19.957%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 4632,
+            "Column4": 102.347748052879,
+            "230122.368": 529544.1359999999,
+            "19.957%": 0.45922981249988415
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "230122.368": 170651.565,
+            "19.957%": 0.14799198191434942
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "230122.368": "Valorisation",
+            "19.957%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 83,
+            "Column4": 108.941,
+            "230122.368": 9099.373,
+            "19.957%": 0.007891133283471028
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 16,
+            "Column4": 10011.71175,
+            "230122.368": 161552.192,
+            "19.957%": 0.1401008486308784
+        }
+    ],
+    "HENCHIRI JALEL": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "10273.32": "Valorisation",
+            "111.757%": "Poids",
+            "N Client": 54
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 10,
+            "Column4": 1003.206,
+            "10273.32": 10273.320000000002,
+            "111.757%": 1.117568712119457
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "10273.32": -2944.484709564401,
+            "111.757%": -0.3203116407084877
+        },
+        {
+            "111.757%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "10273.32": -9117.9267095644,
+            "111.757%": -0.991880872980447
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "10273.32": "Valorisation",
+            "111.757%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 54,
+            "Column4": 107.540513274337,
+            "10273.32": 6173.442,
+            "111.757%": 0.6715692322719593
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "10273.32": 1863.727,
+            "111.757%": 0.20274292858903056
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "10273.32": "Valorisation",
+            "111.757%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 17,
+            "Column4": 103.754882352941,
+            "10273.32": 1863.727,
+            "111.757%": 0.20274292858903056
+        }
+    ],
+    "EL JED TALEL": [
+        {
+            "83.036%": "Poids",
+            "N Client": 58
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "36.71059628": 36.7105962805217,
+            "83.036%": 0.8303574113225803
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "36.71059628": "Valorisation",
+            "83.036%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "36.71059628": 0,
+            "83.036%": 0
+        }
+    ],
+    "GAT (BIAT)": [
+        {
+            "100.000%": "Poids",
+            "N Client": 62
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "347198.9512": 0.000237064436078072,
+            "100.000%": 6.827913368787985E-10
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "347198.9512": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 3037,
+            "Column4": 98.782,
+            "347198.9512": 347198.951,
+            "100.000%": 0.9999999993172086
+        }
+    ],
+    "DRISS OUAFA": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "30819.96": "Valorisation",
+            "14.518%": "Poids",
+            "N Client": 66
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 30,
+            "Column4": 994.768,
+            "30819.96": 30819.960000000003,
+            "14.518%": 0.14518015715764482
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "30819.96": 59369.3666442129,
+            "14.518%": 0.2796646711986864
+        },
+        {
+            "14.518%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "30819.96": -8081.20335578709,
+            "14.518%": -0.03806722569451928
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "30819.96": "Valorisation",
+            "14.518%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 590,
+            "Column4": 107.957996681819,
+            "30819.96": 67450.56999999999,
+            "14.518%": 0.31773189689320563
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "30819.96": 10097.012,
+            "14.518%": 0.04756287123612833
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "30819.96": "Valorisation",
+            "14.518%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10012.22,
+            "30819.96": 10097.012,
+            "14.518%": 0.04756287123612833
+        }
+    ],
+    "BEN HALIMA SALAH": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "38011.284": "Valorisation",
+            "25.560%": "Poids",
+            "N Client": 86
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 37,
+            "Column4": 992.775081081081,
+            "38011.284": 38011.28400000001,
+            "25.560%": 0.25559601173330504
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "38011.284": 37026.69816323699,
+            "25.560%": 0.24897544576963682
+        },
+        {
+            "25.560%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "38011.284": -2300.41383676301,
+            "25.560%": -0.015468475151029767
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "38011.284": "Valorisation",
+            "25.560%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 344,
+            "Column4": 109.106541974728,
+            "38011.284": 39327.112,
+            "25.560%": 0.2644439209206666
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "38011.284": 10097.012,
+            "25.560%": 0.06789447043207804
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "38011.284": "Valorisation",
+            "25.560%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10000.088,
+            "38011.284": 10097.012,
+            "25.560%": 0.06789447043207804
+        }
+    ],
+    "BEN JEMAA HABIB": [
+        {
+            "64.882%": "Poids",
+            "N Client": 91
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "20550.6869": -27.453100671526,
+            "64.882%": -0.0008667369246912067
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20550.6869": "Valorisation",
+            "64.882%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 180,
+            "Column4": 112.274166666667,
+            "20550.6869": 20578.14,
+            "64.882%": 0.6496837640625492
+        }
+    ],
+    "GAT (AMEN BANK)": [
+        {
+            "7.039%": "Poids",
+            "N Client": 92
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "1924.804322": 1924.80432207836,
+            "7.039%": 0.0703923692694146
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1924.804322": "Valorisation",
+            "7.039%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "1924.804322": 0,
+            "7.039%": 0
+        }
+    ],
+    "PGI": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "106842.528": "Valorisation",
+            "10.811%": "Poids",
+            "N Client": 99
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 104,
+            "Column4": 998.226413461539,
+            "106842.528": 106842.528,
+            "10.811%": 0.10811456835370462
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "106842.528": 49283.33481258327,
+            "10.811%": 0.04987008984187966
+        },
+        {
+            "10.811%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "106842.528": 124.444812583271,
+            "10.811%": 0.00012592642132445623
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "106842.528": "Valorisation",
+            "10.811%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 430,
+            "Column4": 107.566849513468,
+            "106842.528": 49158.89,
+            "10.811%": 0.04974416342055521
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "106842.528": 57808.417,
+            "10.811%": 0.05849666952064219
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "106842.528": "Valorisation",
+            "10.811%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 251,
+            "Column4": 100.67490438247,
+            "106842.528": 27517.381,
+            "10.811%": 0.027844996039773907
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 3,
+            "Column4": 10000.088,
+            "106842.528": 30291.036,
+            "10.811%": 0.030651673480868284
+        }
+    ],
+    "SICOF": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "117115.848": "Valorisation",
+            "11.067%": "Poids",
+            "N Client": 103
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 114,
+            "Column4": 999.772017543859,
+            "117115.848": 117115.84800000001,
+            "11.067%": 0.11066583350794203
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "117115.848": 25275.7332737927,
+            "11.067%": 0.023883702658829678
+        },
+        {
+            "11.067%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "117115.848": -43661.0357262073,
+            "11.067%": -0.04125645668774704
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "117115.848": "Valorisation",
+            "11.067%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 603,
+            "Column4": 104.837594558204,
+            "117115.848": 68936.769,
+            "11.067%": 0.06514015934657671
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "117115.848": 61535.871,
+            "11.067%": 0.05814685690404767
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "117115.848": "Valorisation",
+            "11.067%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 285,
+            "Column4": 100.749596491228,
+            "117115.848": 31244.835,
+            "11.067%": 0.029524063285552262
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 3,
+            "Column4": 10000.088,
+            "117115.848": 30291.036,
+            "11.067%": 0.028622793618495405
+        }
+    ],
+    "ROUATBI SANA OU NAOUFEL": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20546.64": "Valorisation",
+            "13.226%": "Poids",
+            "N Client": 105
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 20,
+            "Column4": 978.912,
+            "20546.64": 20546.640000000003,
+            "13.226%": 0.13226133402548892
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "20546.64": 83061.34357429575,
+            "13.226%": 0.534676429191626
+        },
+        {
+            "13.226%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "20546.64": -51.4774257042445,
+            "13.226%": -0.0003313667342125706
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20546.64": "Valorisation",
+            "13.226%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 727,
+            "Column4": 102.091291681061,
+            "20546.64": 83112.821,
+            "13.226%": 0.5350077959258385
+        }
+    ],
+    "TOUZANI MOEZ": [
+        {
+            "-17.121%": "Poids",
+            "N Client": 109
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "-725.2349235": -725.234923538927,
+            "-17.121%": -0.17120647551614923
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "-725.2349235": "Valorisation",
+            "-17.121%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "-725.2349235": 0,
+            "-17.121%": 0
+        }
+    ],
+    "DRISS CYRINE": [
+        {
+            "29.904%": "Poids",
+            "N Client": 113
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "2191.670503": 248.179503445077,
+            "29.904%": 0.03386262079013499
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "2191.670503": "Valorisation",
+            "29.904%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 17,
+            "Column4": 112.469625,
+            "2191.670503": 1943.491,
+            "29.904%": 0.2651778161712883
+        }
+    ],
+    "DRISS SOFIA": [
+        {
+            "29.962%": "Poids",
+            "N Client": 114
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "2182.869656": 239.378655555105,
+            "29.962%": 0.03285659123971117
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "2182.869656": "Valorisation",
+            "29.962%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 17,
+            "Column4": 112.422565217391,
+            "2182.869656": 1943.491,
+            "29.962%": 0.26675932829925064
+        }
+    ],
+    "MICHKET EL JED": [
+        {
+            "2.902%": "Poids",
+            "N Client": 126
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "453.6524936": 110.683493575023,
+            "2.902%": 0.007080439009218555
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "453.6524936": "Valorisation",
+            "2.902%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 3,
+            "Column4": 113.552,
+            "453.6524936": 342.969,
+            "2.902%": 0.02193977627663777
+        }
+    ],
+    "ANISSA BEN JEMAA": [
+        {
+            "100.000%": "Poids",
+            "N Client": 135
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "44722.562": 136.592003705096,
+            "100.000%": 0.0030542079341022523
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "44722.562": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 390,
+            "Column4": 108.151407699571,
+            "44722.562": 44585.969999999994,
+            "100.000%": 0.9969457920658977
+        }
+    ],
+    "SALOUA BEN YEDDER EP CHOUAIEB": [
+        {
+            "100%": "Poids",
+            "N Client": 136
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "146.0808012": 146.080801179894,
+            "100%": 1
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "146.0808012": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "146.0808012": 0,
+            "100%": 0
+        }
+    ],
+    "BESSA LASAAD": [
+        {
+            "65.563%": "Poids",
+            "N Client": 142
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "467.1080451": 9.81604511499245,
+            "65.563%": 0.01377771671229864
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "467.1080451": "Valorisation",
+            "65.563%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 4,
+            "Column4": 113.552,
+            "467.1080451": 457.292,
+            "65.563%": 0.6418511281266983
+        }
+    ],
+    "EL JED TALEL (BIAT)": [
+        {
+            "29.23%": "Poids",
+            "N Client": 144
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "1018.610606": 104.026606314976,
+            "29.23%": 0.029850495338823738
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1018.610606": "Valorisation",
+            "29.23%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 8,
+            "Column4": 112.294,
+            "1018.610606": 914.584,
+            "29.23%": 0.2624404120836196
+        }
+    ],
+    "NOURA BEN YEDDER": [
+        {
+            "100%": "Poids",
+            "N Client": 145
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "115.8825936": 115.882593599788,
+            "100%": 1
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "115.8825936": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "115.8825936": 0,
+            "100%": 0
+        }
+    ],
+    "ABDELGHANI JABER": [
+        {
+            "17.740%": "Poids",
+            "N Client": 156
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "12881.42441": 77.248407005216,
+            "17.740%": 0.0010638368661166511
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "12881.42441": "Valorisation",
+            "17.740%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 112,
+            "Column4": 110.515464285714,
+            "12881.42441": 12804.176,
+            "17.740%": 0.1763344384321903
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "12881.42441": 59731.594999999994,
+            "17.740%": 0.822601724701693
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "12881.42441": "Valorisation",
+            "17.740%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP BNA PROGRES OBLIGATAIRE",
+            "Column2": 16.505,
+            "Column3": 3619,
+            "Column4": 14.701,
+            "12881.42441": 59731.594999999994,
+            "17.740%": 0.822601724701693
+        }
+    ],
+    "KRIAA MOHAMED": [
+        {
+            "76.107%": "Poids",
+            "N Client": 171
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "3841.37029": 68.7112903349989,
+            "76.107%": 0.013613444145316114
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "3841.37029": "Valorisation",
+            "76.107%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 33,
+            "Column4": 111.861,
+            "3841.37029": 3772.6589999999997,
+            "76.107%": 0.7474591486410187
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "3841.37029": 1205.941,
+            "76.107%": 0.23892740721366518
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "3841.37029": "Valorisation",
+            "76.107%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 11,
+            "Column4": 108.915,
+            "3841.37029": 1205.941,
+            "76.107%": 0.23892740721366518
+        }
+    ],
+    "KRIAA NOUR": [
+        {
+            "73.354%": "Poids",
+            "N Client": 172
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "3621.737442": 77.7244420550269,
+            "73.354%": 0.015742266707649607
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "3621.737442": "Valorisation",
+            "73.354%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 31,
+            "Column4": 111.861,
+            "3621.737442": 3544.013,
+            "73.354%": 0.7178024876895089
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "3621.737442": 1315.5720000000001,
+            "73.354%": 0.2664552456028414
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "3621.737442": "Valorisation",
+            "73.354%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 12,
+            "Column4": 108.915,
+            "3621.737442": 1315.5720000000001,
+            "73.354%": 0.2664552456028414
+        }
+    ],
+    "HENCHIRI JALEL BIAT": [
+        {
+            "88.320%": "Poids",
+            "N Client": 180
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "35135.17347": 152.335472044826,
+            "88.320%": 0.0038292867156281703
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "35135.17347": "Valorisation",
+            "88.320%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 306,
+            "Column4": 109.378183006536,
+            "35135.17347": 34982.837999999996,
+            "88.320%": 0.8793704777371464
+        }
+    ],
+    "MOUEZZ H.BOURGUIBA": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "58557.924": "Valorisation",
+            "4.690%": "Poids",
+            "N Client": 182
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 57,
+            "Column4": 996.414210526316,
+            "58557.924": 58557.924000000006,
+            "4.690%": 0.046902204442006316
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "58557.924": 836385.5902991951,
+            "4.690%": 0.6699063981257426
+        },
+        {
+            "4.690%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "58557.924": 6743.5792991952,
+            "4.690%": 0.005401296927154298
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "58557.924": "Valorisation",
+            "4.690%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 7257,
+            "Column4": 102.856820801711,
+            "58557.924": 829642.0109999999,
+            "4.690%": 0.6645051011985883
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "58557.924": 187986.5,
+            "4.690%": 0.15056854227511923
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "58557.924": "Valorisation",
+            "4.690%": "Poids"
+        },
+        {
+            "FCP TRACKER": "SICAV PATRIMOINE OBLIGATAIRE",
+            "Column2": 164.218,
+            "Column3": 38,
+            "Column4": 151.991,
+            "58557.924": 6240.284,
+            "4.690%": 0.0049981805356381975
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 18,
+            "Column4": 10024.9495555556,
+            "58557.924": 181746.21600000001,
+            "4.690%": 0.14557036173948104
+        }
+    ],
+    "SELLAMI EMNA": [
+        {
+            "100.000%": "Poids",
+            "N Client": 186
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "223.7348059": -4.91119411366526,
+            "100.000%": -0.021950961515394805
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "223.7348059": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 2,
+            "Column4": 112.557,
+            "223.7348059": 228.646,
+            "100.000%": 1.0219509615153948
+        }
+    ],
+    "SELLAMI ADNENE": [
+        {
+            "100.000%": "Poids",
+            "N Client": 201
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "4236.18794": 6.23694002605043,
+            "100.000%": 0.0014723001232122095
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "4236.18794": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 37,
+            "Column4": 111.187,
+            "4236.18794": 4229.951,
+            "100.000%": 0.9985276998767878
+        }
+    ],
+    "ABDELGHANI EP BEN HALIMA Leila": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1027.332": "Valorisation",
+            "5.695%": "Poids",
+            "N Client": 206
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 1,
+            "Column4": 1007.419,
+            "1027.332": 1027.332,
+            "5.695%": 0.05694772291266513
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "1027.332": 6581.431581365026,
+            "5.695%": 0.3648261146973315
+        },
+        {
+            "5.695%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "1027.332": -277.948418634973,
+            "5.695%": -0.015407414086622329
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1027.332": "Valorisation",
+            "5.695%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 60,
+            "Column4": 111.650885714286,
+            "1027.332": 6859.379999999999,
+            "5.695%": 0.38023352878395383
+        }
+    ],
+    "SMART ASSET MANAGEMENT": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1027.332": "Valorisation",
+            "100%": "Poids",
+            "N Client": 213
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 1,
+            "Column4": 1035.718,
+            "1027.332": 1027.332,
+            "100%": 1
+        }
+    ],
+    "BEN AYED ADEL": [
+        {
+            "72.888%": "Poids",
+            "N Client": 219
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "38050.82299": 95.5869919155375,
+            "72.888%": 0.0018310217355831822
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "38050.82299": "Valorisation",
+            "72.888%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 332,
+            "Column4": 104.433350631601,
+            "38050.82299": 37955.236,
+            "72.888%": 0.7270535530252697
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "38050.82299": 14153.359,
+            "72.888%": 0.271115425239147
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "38050.82299": "Valorisation",
+            "72.888%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 37,
+            "Column4": 109.119,
+            "38050.82299": 4056.347,
+            "72.888%": 0.07770157188993355
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10034.375,
+            "38050.82299": 10097.012,
+            "72.888%": 0.19341385334921343
+        }
+    ],
+    "SMART CONSULT": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "21573.972": "Valorisation",
+            "16.296%": "Poids",
+            "N Client": 220
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 21,
+            "Column4": 1001.67933333333,
+            "21573.972": 21573.972,
+            "16.296%": 0.1629552589529284
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "21573.972": 8486.948052314614,
+            "16.296%": 0.06410469141171496
+        },
+        {
+            "16.296%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "21573.972": 370.015052314615,
+            "16.296%": 0.00279484457782783
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "21573.972": "Valorisation",
+            "16.296%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 71,
+            "Column4": 111.72,
+            "21573.972": 8116.932999999999,
+            "16.296%": 0.061309846833887134
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "21573.972": 24798.526,
+            "16.296%": 0.18731136880964375
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "21573.972": "Valorisation",
+            "16.296%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 42,
+            "Column4": 106.81219047619,
+            "21573.972": 4604.502,
+            "16.296%": 0.03477930794381659
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 2,
+            "Column4": 10000,
+            "21573.972": 20194.024,
+            "16.296%": 0.15253206086582716
+        }
+    ],
+    "BOUZGUENDA MOHAMED": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20546.64": "Valorisation",
+            "5.028%": "Poids",
+            "N Client": 226
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 20,
+            "Column4": 994.5385,
+            "20546.64": 20546.640000000003,
+            "5.028%": 0.050277229955396435
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "20546.64": 347732.2178384482,
+            "5.028%": 0.8508939991727924
+        },
+        {
+            "5.028%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "20546.64": 75.9748384482227,
+            "5.028%": 0.00018590895754660552
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20546.64": "Valorisation",
+            "5.028%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 3041,
+            "Column4": 106.559932432229,
+            "20546.64": 347656.24299999996,
+            "5.028%": 0.8507080902152458
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "20546.64": 40388.048,
+            "5.028%": 0.0988287708718111
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20546.64": "Valorisation",
+            "5.028%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 4,
+            "Column4": 10000.088,
+            "20546.64": 40388.048,
+            "5.028%": 0.0988287708718111
+        }
+    ],
+    "Mohamed Zouheir HAMMAMI": [
+        {
+            "19.849%": "Poids",
+            "N Client": 229
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "42427.55766": -900.859344650409,
+            "19.849%": -0.0042145919195603135
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "42427.55766": "Valorisation",
+            "19.849%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 379,
+            "Column4": 107.044473797146,
+            "42427.55766": 43328.416999999994,
+            "19.849%": 0.20270822216580844
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "42427.55766": 6139.336,
+            "19.849%": 0.028722348334086288
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "42427.55766": "Valorisation",
+            "19.849%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 56,
+            "Column4": 108.941,
+            "42427.55766": 6139.336,
+            "19.849%": 0.028722348334086288
+        }
+    ],
+    "ABDELMOULA Mustapha": [
+        {
+            "20.167%": "Poids",
+            "N Client": 230
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "33717.29221": -7.99279458494857,
+            "20.167%": -4.780679209399685E-05
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "33717.29221": "Valorisation",
+            "20.167%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 295,
+            "Column4": 111.376109152542,
+            "33717.29221": 33725.284999999996,
+            "20.167%": 0.20171889458312217
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "33717.29221": 49593.477,
+            "20.167%": 0.29663029857193185
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "33717.29221": "Valorisation",
+            "20.167%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP BNA PROGRES OBLIGATAIRE",
+            "Column2": 16.505,
+            "Column3": 2393,
+            "Column4": 14.701,
+            "33717.29221": 39496.465,
+            "20.167%": 0.2362376851593982
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10000.088,
+            "33717.29221": 10097.012,
+            "20.167%": 0.06039261341253365
+        }
+    ],
+    "BOUZGUENDA MED KHALIL": [
+        {
+            "11.914%": "Poids",
+            "N Client": 231
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "7428.947627": -230.693372665031,
+            "11.914%": -0.003699559879950045
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "7428.947627": "Valorisation",
+            "11.914%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 67,
+            "Column4": 110.84606409169,
+            "7428.947627": 7659.641,
+            "11.914%": 0.12283534724496172
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "7428.947627": 50485.060000000005,
+            "11.914%": 0.8096136458331047
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "7428.947627": "Valorisation",
+            "11.914%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 5,
+            "Column4": 10013.9272,
+            "7428.947627": 50485.060000000005,
+            "11.914%": 0.8096136458331047
+        }
+    ],
+    "BOUZGUENDA ZEINEB": [
+        {
+            "33.169%": "Poids",
+            "N Client": 232
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "27667.02364": -456.434363820212,
+            "33.169%": -0.005472043891060291
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "27667.02364": "Valorisation",
+            "33.169%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 246,
+            "Column4": 102.785242,
+            "27667.02364": 28123.458,
+            "33.169%": 0.3371630375424768
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "27667.02364": 50485.060000000005,
+            "33.169%": 0.6052490479696414
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "27667.02364": "Valorisation",
+            "33.169%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 5,
+            "Column4": 10013.9272,
+            "27667.02364": 50485.060000000005,
+            "33.169%": 0.6052490479696414
+        }
+    ],
+    "BOUZGUENDA EMNA": [
+        {
+            "29.027%": "Poids",
+            "N Client": 233
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "24191.72733": 69.5743322698982,
+            "29.027%": 0.0008347997752662556
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "24191.72733": "Valorisation",
+            "29.027%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 211,
+            "Column4": 103.681880316635,
+            "24191.72733": 24122.153,
+            "29.027%": 0.28943386513895025
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "24191.72733": 53883.62100000001,
+            "29.027%": 0.6465320360795451
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "24191.72733": "Valorisation",
+            "29.027%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 31,
+            "Column4": 109.119,
+            "24191.72733": 3398.561,
+            "29.027%": 0.04077822763749554
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 5,
+            "Column4": 10009.9996,
+            "24191.72733": 50485.060000000005,
+            "29.027%": 0.6057538084420496
+        }
+    ],
+    "BEN JEMAA LAMIA (BIAT)": [
+        {
+            "99.975%": "Poids",
+            "N Client": 236
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "7077.29518": -125.053820404966,
+            "99.975%": -0.017665351361992564
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "7077.29518": "Valorisation",
+            "99.975%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 63,
+            "Column4": 110.793926829268,
+            "7077.29518": 7202.348999999999,
+            "99.975%": 1.0174181428818088
+        }
+    ],
+    "BEN KHEMIS BOUTHEINA": [
+        {
+            "100.000%": "Poids",
+            "N Client": 257
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "73649.60643": 254.240426982404,
+            "100.000%": 0.003452026960041704
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "73649.60643": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 642,
+            "Column4": 111.002429919631,
+            "73649.60643": 73395.366,
+            "100.000%": 0.9965479730399583
+        }
+    ],
+    "SELLAMI MUSTAPHA (BIAT)": [
+        {
+            "100.000%": "Poids",
+            "N Client": 260
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "1061.621745": 261.360745410042,
+            "100.000%": 0.24619008280495774
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1061.621745": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 7,
+            "Column4": 112.294,
+            "1061.621745": 800.261,
+            "100.000%": 0.7538099171950423
+        }
+    ],
+    "HENCHIRI RIDHA RADHWEN": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "11300.652": "Valorisation",
+            "9.831%": "Poids",
+            "N Client": 261
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 11,
+            "Column4": 1005.121,
+            "11300.652": 11300.652000000002,
+            "9.831%": 0.09830949251725915
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "11300.652": 26661.952196076916,
+            "9.831%": 0.2319444037313727
+        },
+        {
+            "9.831%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "11300.652": -1118.53680392308,
+            "9.831%": -0.00973065851028374
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "11300.652": "Valorisation",
+            "9.831%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 243,
+            "Column4": 107.356848871773,
+            "11300.652": 27780.488999999998,
+            "9.831%": 0.24167506224165644
+        }
+    ],
+    "HENCHIRI JAWHARA": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "43147.944": "Valorisation",
+            "13.221%": "Poids",
+            "N Client": 263
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 42,
+            "Column4": 995.115166666667,
+            "43147.944": 43147.944,
+            "13.221%": 0.13221351692081768
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "43147.944": 247981.20463294687,
+            "13.221%": 0.7598616331471754
+        },
+        {
+            "13.221%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "43147.944": -5587.20936705312,
+            "13.221%": -0.017120273452450683
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "43147.944": "Valorisation",
+            "13.221%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 2218,
+            "Column4": 103.272375326328,
+            "43147.944": 253568.414,
+            "13.221%": 0.7769819065996261
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "43147.944": 33579.966,
+            "13.221%": 0.10289541033383842
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "43147.944": "Valorisation",
+            "13.221%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 30,
+            "Column4": 109.119,
+            "43147.944": 3288.93,
+            "13.221%": 0.010077907818884367
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 3,
+            "Column4": 10000.088,
+            "43147.944": 30291.036,
+            "13.221%": 0.09281750251495406
+        }
+    ],
+    "HENCHIRI AMEL": [
+        {
+            "100%": "Poids",
+            "N Client": 265
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "99.84958528": 99.849585279997,
+            "100%": 1
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "99.84958528": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "99.84958528": 0,
+            "100%": 0
+        }
+    ],
+    "HENCHIRI JALELEDDINE": [
+        {
+            "17.736%": "Poids",
+            "N Client": 266
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "9224.141649": 9224.14164853026,
+            "17.736%": 0.17736328740317922
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "9224.141649": "Valorisation",
+            "17.736%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "9224.141649": 0,
+            "17.736%": 0
+        }
+    ],
+    "BOUZGUENDA SLIM": [
+        {
+            "15.232%": "Poids",
+            "N Client": 274
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "10844.45374": 555.383742880002,
+            "15.232%": 0.007801039752641165
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "10844.45374": "Valorisation",
+            "15.232%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 90,
+            "Column4": 100.282714285714,
+            "10844.45374": 10289.07,
+            "15.232%": 0.14452249479158777
+        }
+    ],
+    "Assurance Maghrebia": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "513666": "Valorisation",
+            "100%": "Poids",
+            "N Client": 278
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 500,
+            "Column4": 999.231,
+            "513666": 513666.00000000006,
+            "100%": 0.9999999999999963
+        }
+    ],
+    "Assurance Maghrebia Vie": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "513666": "Valorisation",
+            "100%": "Poids",
+            "N Client": 279
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 500,
+            "Column4": 999.231,
+            "513666": 513666.00000000006,
+            "100%": 0.9999999999999963
+        }
+    ],
+    " BEN JEMAA AMINE (Ordinaire)": [
+        {
+            "6.276%": "Poids",
+            "N Client": 280
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "22.0228178": 22.0228177999998,
+            "6.276%": 0.06275812227008654
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "22.0228178": "Valorisation",
+            "6.276%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "22.0228178": 0,
+            "6.276%": 0
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "22.0228178": 328.89300000000003,
+            "6.276%": 0.9372418777299134
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "22.0228178": "Valorisation",
+            "6.276%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 3,
+            "Column4": 101.117,
+            "22.0228178": 328.89300000000003,
+            "6.276%": 0.9372418777299134
+        }
+    ],
+    "ALLIANCE CONSTRUCTIONS": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "609207.876": "Valorisation",
+            "99.443%": "Poids",
+            "N Client": 282
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 593,
+            "Column4": 994.04878920742,
+            "609207.876": 609207.876,
+            "99.443%": 0.9944346256754476
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "609207.876": 1631.30470744126,
+            "99.443%": 0.002662844572460755
+        },
+        {
+            "99.443%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "609207.876": 1059.68970744126,
+            "99.443%": 0.0017297743168892877
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "609207.876": "Valorisation",
+            "99.443%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 5,
+            "Column4": 112.557,
+            "609207.876": 571.615,
+            "99.443%": 0.0009330702555714677
+        }
+    ],
+    "BEN JEMAA AMINE  2019": [
+        {
+            "4.549%": "Poids",
+            "N Client": 288
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "71.62665405": 71.6266540500001,
+            "4.549%": 0.045493801737762886
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "71.62665405": "Valorisation",
+            "4.549%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "71.62665405": 0,
+            "4.549%": 0
+        }
+    ],
+    "BEN JEMAA LAMIA 2019": [
+        {
+            "2.825%": "Poids",
+            "N Client": 289
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "91.24946213": 91.2494621299993,
+            "2.825%": 0.02824763873881906
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "91.24946213": "Valorisation",
+            "2.825%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "91.24946213": 0,
+            "2.825%": 0
+        }
+    ],
+    "TOUZANI MOEZ 2019": [
+        {
+            "0.204%": "Poids",
+            "N Client": 290
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "20.88431565": 20.8843156450093,
+            "0.204%": 0.002040612999429175
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20.88431565": "Valorisation",
+            "0.204%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "20.88431565": 0,
+            "0.204%": 0
+        }
+    ],
+    "SELLAMI EMNA 2019": [
+        {
+            "0.495%": "Poids",
+            "N Client": 291
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "20.7053547": 20.7053546999996,
+            "0.495%": 0.004952598411825983
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "20.7053547": "Valorisation",
+            "0.495%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "20.7053547": 0,
+            "0.495%": 0
+        }
+    ],
+    "SELLAMI MUSTAPHA 2019": [
+        {
+            "0.105%": "Poids",
+            "N Client": 292
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "6.87726224": 6.87726224000653,
+            "0.105%": 0.0010492464867680707
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "6.87726224": "Valorisation",
+            "0.105%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "6.87726224": 0,
+            "0.105%": 0
+        }
+    ],
+    "MADDOURI Nebil  2019": [
+        {
+            "-0.367%": "Poids",
+            "N Client": 293
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "-8.91077282": -8.91077281998514,
+            "-0.367%": -0.003670414608113301
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "-8.91077282": "Valorisation",
+            "-0.367%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "-8.91077282": 0,
+            "-0.367%": 0
+        }
+    ],
+    "Maddouri Nebil ( Ordinaire )": [
+        {
+            "9.856%": "Poids",
+            "N Client": 294
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "35.95954875": -78.3634512499989,
+            "9.856%": -0.2147811534234175
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "35.95954875": "Valorisation",
+            "9.856%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 1,
+            "Column4": 112.557,
+            "35.95954875": 114.323,
+            "9.856%": 0.31334028059191305
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "35.95954875": 328.89300000000003,
+            "9.856%": 0.9014408728315044
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "35.95954875": "Valorisation",
+            "9.856%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 3,
+            "Column4": 101.117,
+            "35.95954875": 328.89300000000003,
+            "9.856%": 0.9014408728315044
+        }
+    ],
+    "Agence Africaine de Consignatio": [
+        {
+            "6.940%": "Poids",
+            "N Client": 295
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "753.026": 67.0880000004545,
+            "6.940%": 0.0061832041510317005
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "753.026": "Valorisation",
+            "6.940%": "Poids",
+            "Column7": " "
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 6,
+            "Column4": 98.749,
+            "753.026": 685.938,
+            "6.940%": 0.06321987075068043
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "753.026": 10097.012,
+            "6.940%": 0.9305969250982878
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "753.026": "Valorisation",
+            "6.940%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10000,
+            "753.026": 10097.012,
+            "6.940%": 0.9305969250982878
+        }
+    ],
+    "SINDBAD DISTRIBUTION HANDING ET": [
+        {
+            "100.000%": "Poids",
+            "N Client": 297
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "96054.92": 23.6000000000058,
+            "100.000%": 0.00024569277659078576
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "96054.92": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 840,
+            "Column4": 95.21,
+            "96054.92": 96031.31999999999,
+            "100.000%": 0.9997543072234092
+        }
+    ],
+    "SINDBAD TRANSWORLD SERVICES": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "123279.84": "Valorisation",
+            "92.430%": "Poids",
+            "N Client": 298
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 120,
+            "Column4": 1005.367,
+            "123279.84": 123279.84000000001,
+            "92.430%": 0.9242971186634459
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "123279.84": 10097.012,
+            "92.430%": 0.07570288133656108
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "123279.84": "Valorisation",
+            "92.430%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 1,
+            "Column4": 10000,
+            "123279.84": 10097.012,
+            "92.430%": 0.07570288133656108
+        }
+    ],
+    "SINDMAR TUNISIA AGENCIES": [
+        {
+            "100.000%": "Poids",
+            "N Client": 301
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "108061.785": 26.5499999999884,
+            "100.000%": 0.0002456927765906181
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "108061.785": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 945,
+            "Column4": 95.21,
+            "108061.785": 108035.235,
+            "100.000%": 0.9997543072234094
+        }
+    ],
+    "HAMOUDA EP BINOUS NAJET 2019": [
+        {
+            "-0.001382324": "Poids",
+            "N Client": 304
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "-28.51002644": -28.5100264449429,
+            "-0.001382324": -0.001382324420791497
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "-28.51002644": "Valorisation",
+            "-0.001382324": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "-28.51002644": 0,
+            "-0.001382324": 0
+        }
+    ],
+    "HAMOUDA EP BINOUS NAJET (BIAT)": [
+        {
+            "14.06%": "Poids",
+            "N Client": 307
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "484.1819454": -659.048054570005,
+            "14.06%": -0.19134905910800795
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "484.1819454": "Valorisation",
+            "14.06%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 10,
+            "Column4": 110.807,
+            "484.1819454": 1143.23,
+            "14.06%": 0.3319272143012014
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "484.1819454": 2960.037,
+            "14.06%": 0.8594218448068065
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "484.1819454": "Valorisation",
+            "14.06%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 27,
+            "Column4": 101.117,
+            "484.1819454": 2960.037,
+            "14.06%": 0.8594218448068065
+        }
+    ],
+    "TOUZANI MOEZ 2020": [
+        {
+            "0.150%": "Poids",
+            "N Client": 309
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "14.60075476": 14.600754760002,
+            "0.150%": 0.0014992092211454436
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "14.60075476": "Valorisation",
+            "0.150%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "14.60075476": 0,
+            "0.150%": 0
+        }
+    ],
+    "BEN KHEMIS EP BELHEDI LEILA CEA": [
+        {
+            "0.022%": "Poids",
+            "N Client": 310
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "4.933523895": 4.93352389498614,
+            "0.022%": 0.0002174418594770164
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "4.933523895": "Valorisation",
+            "0.022%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "4.933523895": 0,
+            "0.022%": 0
+        }
+    ],
+    "BEN KHEMIS EP BELHEDI LEILA ( B": [
+        {
+            "83.699%": "Poids",
+            "N Client": 311
+        },
+        {
+            "  ": "TRESORERIE",
+            "12717.6318": -772.482202414991,
+            "83.699%": -0.05083981494182223
+        },
+        null,
+        {
+            "  ": "FCP Equilibre"
+        },
+        {
+            "  ": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "12717.6318": "Valorisation",
+            "83.699%": "Poids"
+        },
+        {
+            "  ": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 118,
+            "Column4": 111.62385,
+            "12717.6318": 13490.114,
+            "83.699%": 0.8878326221108751
+        },
+        null,
+        {
+            "  ": "OPCVM",
+            "12717.6318": 2411.882,
+            "83.699%": 0.15873457557749487
+        },
+        {
+            "  ": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "12717.6318": "Valorisation",
+            "83.699%": "Poids"
+        },
+        {
+            "  ": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 22,
+            "Column4": 101.117,
+            "12717.6318": 2411.882,
+            "83.699%": 0.15873457557749487
+        },
+        null,
+        null,
+        {
+            "12717.6318": "              "
+        }
+    ],
+    "EL JED TALEL 2020": [
+        {
+            "-0.003%": "Poids",
+            "N Client": 312
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "-0.29613892": -0.296138920000885,
+            "-0.003%": -2.9958462670522754E-05
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "-0.29613892": "Valorisation",
+            "-0.003%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "-0.29613892": 0,
+            "-0.003%": 0
+        }
+    ],
+    "AHMED BOUZGUENDA": [
+        {
+            "15.262%": "Poids",
+            "N Client": 313
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "1424.556715": 52.6807149999986,
+            "15.262%": 0.005643912794860568
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1424.556715": "Valorisation",
+            "15.262%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 12,
+            "Column4": 112.462,
+            "1424.556715": 1371.876,
+            "15.262%": 0.1469750080150268
+        }
+    ],
+    "STE PARTNER INVESTMENT   SA": [
+        {
+            "OPCVM": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "43753512.84": "Valorisation",
+            "100%": "Poids",
+            "N Client": 317
+        },
+        {
+            "OPCVM": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 399098,
+            "Column4": 100.437014587473,
+            "43753512.84": 43753512.838,
+            "100%": 0.9999999999999997
+        }
+    ],
+    "HAMIDA MNARI": [
+        {
+            "100.000%": "Poids",
+            "N Client": 319
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "15031.40241": -630.848585860018,
+            "100.000%": -0.04196871113413751
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "15031.40241": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 137,
+            "Column4": 105.287459016393,
+            "15031.40241": 15662.250999999998,
+            "100.000%": 1.0419687111341376
+        }
+    ],
+    "RIDHA  BOUBAKER MNARI": [
+        {
+            "39.106%": "Poids",
+            "N Client": 319
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "89859.65471": 116.09970879514,
+            "39.106%": 0.0005052486784842622
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "89859.65471": "Valorisation",
+            "39.106%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 785,
+            "Column4": 107.792161095958,
+            "89859.65471": 89743.555,
+            "39.106%": 0.3905506140953195
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "89859.65471": 39927.60400000001,
+            "39.106%": 0.17375899875545087
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "89859.65471": "Valorisation",
+            "39.106%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 180,
+            "Column4": 101.003777777778,
+            "89859.65471": 19733.58,
+            "39.106%": 0.08587760744823532
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 2,
+            "Column4": 10004.5125,
+            "89859.65471": 20194.024,
+            "39.106%": 0.08788139130721556
+        }
+    ],
+    "Assouan DRISS": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "49311.936": "Valorisation",
+            "9.178%": "Poids",
+            "N Client": 328
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 48,
+            "Column4": 1030.12270833333,
+            "49311.936": 49311.936,
+            "9.178%": 0.09178058663907118
+        },
+        null,
+        {
+            "FCP TRACKER": "Tresorie +FCP EQUILIBRE",
+            "49311.936": 395.846997395158,
+            "9.178%": 0.0007367601555988895
+        },
+        {
+            "9.178%": "Poids"
+        },
+        {
+            "FCP TRACKER": "TRESORERIE",
+            "49311.936": 395.846997395158,
+            "9.178%": 0.0007367601555988895
+        },
+        null,
+        {
+            "FCP TRACKER": "FCP Equilibre"
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "49311.936": "Valorisation",
+            "9.178%": "Poids"
+        },
+        {
+            "FCP TRACKER": 0,
+            "Column2": 0,
+            "49311.936": 0,
+            "9.178%": 0
+        },
+        null,
+        {
+            "FCP TRACKER": "OPCVM",
+            "49311.936": 487572.897,
+            "9.178%": 0.90748265320533
+        },
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "49311.936": "Valorisation",
+            "9.178%": "Poids"
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 4079,
+            "Column4": 104.20132851189,
+            "49311.936": 447184.849,
+            "9.178%": 0.8323114261286448
+        },
+        {
+            "FCP TRACKER": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 4,
+            "Column4": 10004.5125,
+            "49311.936": 40388.048,
+            "9.178%": 0.07517122707668515
+        }
+    ],
+    "PLACEMENT OBLIGATAIRE SICAV": [
+        {
+            "100%": "Poids",
+            "N Client": 329
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "1201077.438": 0,
+            "100%": 0
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "1201077.438": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 10506,
+            "Column4": 95.192,
+            "1201077.438": 1201077.4379999998,
+            "100%": 1
+        }
+    ],
+    "TOUZANI MOEZ  2021": [
+        {
+            "0.401%": "Poids",
+            "N Client": 331
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "29.19221801": 29.1922180100009,
+            "0.401%": 0.004013673382330614
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "29.19221801": "Valorisation",
+            "0.401%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "29.19221801": 0,
+            "0.401%": 0
+        }
+    ],
+    "BEN KHEMIS EP BELHEDI LEILA 202": [
+        {
+            "-0.207%": "Poids",
+            "N Client": 332
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "-45.6234213": -45.6234212950367,
+            "-0.207%": -0.00206542721801579
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "-45.6234213": "Valorisation",
+            "-0.207%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "-45.6234213": 0,
+            "-0.207%": 0
+        }
+    ],
+    "BEN LETIFA MOHAMED YACINE": [
+        {
+            "OPCVM": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "171649.204": "Valorisation",
+            "100%": "Poids",
+            "N Client": 333
+        },
+        {
+            "OPCVM": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 17,
+            "Column4": 10012.22,
+            "171649.204": 171649.204,
+            "100%": 1
+        }
+    ],
+    "MAXULA INVESTISSEMENT SICAV ": [
+        {
+            "100.000%": "Poids",
+            "N Client": 337
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "24441.967": 91.1680000000633,
+            "100.000%": 0.0037299780332762525
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "24441.967": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 213,
+            "Column4": 96.8502040125495,
+            "24441.967": 24350.799,
+            "100.000%": 0.9962700219667238
+        }
+    ],
+    "FCP MAGHREBIA DYNAMIQUE ": [
+        {
+            "100%": "Poids",
+            "N Client": 337
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "59790.929": 0,
+            "100%": 0
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "59790.929": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 523,
+            "Column4": 95.679,
+            "59790.929": 59790.929,
+            "100%": 1
+        },
+        {
+            "Column7": " "
+        }
+    ],
+    "ATTIJARI OBLIGATAIRE SICAV": [
+        {
+            "100%": "Poids",
+            "N Client": 340
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "358288.282": 0,
+            "100%": 0
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "358288.282": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 3134,
+            "Column4": 95.743,
+            "358288.282": 358288.282,
+            "100%": 1
+        }
+    ],
+    "SELMA BELLAGHA ": [
+        {
+            "100.000%": "Poids",
+            "N Client": 341
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "57847.438": 5.82076609134674E-11,
+            "100.000%": 1.0062271195738582E-15
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "57847.438": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 506,
+            "Column4": 95.4600291310899,
+            "57847.438": 57847.437999999995,
+            "100.000%": 0.999999999999999
+        }
+    ],
+    "BEN JEMAA MOHAMED (FCP)": [
+        {
+            "100.000%": "Poids",
+            "N Client": 342
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "93212.147": 38.9020000002347,
+            "100.000%": 0.00041734903928599136
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "93212.147": "Valorisation",
+            "100.000%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 815,
+            "Column4": 110.722,
+            "93212.147": 93173.245,
+            "100.000%": 0.999582650960714
+        }
+    ],
+    "BOUAZIZ HEND 2021": [
+        {
+            "4.020%": "Poids",
+            "N Client": 343
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "341.5363109": 341.53631094499,
+            "4.020%": 0.04020067106737302
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "341.5363109": "Valorisation",
+            "4.020%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "341.5363109": 0,
+            "4.020%": 0
+        }
+    ],
+    "LABBENE HICHEM": [
+        {
+            "48.429%": "Poids",
+            "N Client": 346
+        },
+        {
+            "   ": "TRESORERIE",
+            "4267.55578": -419.687219615,
+            "48.429%": -0.04762702288511298
+        },
+        null,
+        {
+            "   ": "FCP Equilibre"
+        },
+        {
+            "   ": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "4267.55578": "Valorisation",
+            "48.429%": "Poids"
+        },
+        {
+            "   ": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 41,
+            "Column4": 108.234306122449,
+            "4267.55578": 4687.2429999999995,
+            "48.429%": 0.5319185793502939
+        }
+    ],
+    "BEN JEMAA MONCEF": [
+        {
+            "100%": "Poids",
+            "N Client": 347
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "296205.63": 109.059999999823,
+            "100%": 0.0003681901657298785
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "296205.63": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 2590,
+            "Column4": 106.63943822861,
+            "296205.63": 296096.57,
+            "100%": 0.9996318098342701
+        }
+    ],
+    "HENCHIRI JALEL CEA 2021": [
+        {
+            "3.545%": "Poids",
+            "N Client": 348
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "930.2377126": 930.23771255499,
+            "3.545%": 0.03545124351170888
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "930.2377126": "Valorisation",
+            "3.545%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "930.2377126": 0,
+            "3.545%": 0
+        }
+    ],
+    "BEN JEMAA LAMIA 2022": [
+        {
+            "0.297%": "Poids",
+            "N Client": 349
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "24.01013675": 24.0101367549905,
+            "0.297%": 0.002969030791798142
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "24.01013675": "Valorisation",
+            "0.297%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "24.01013675": 0,
+            "0.297%": 0
+        }
+    ],
+    "LEILA BEN KHEMIS EP BELHEDI 202": [
+        {
+            "0.118%": "Poids",
+            "N Client": 350
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "38.7842566": 38.7842566000472,
+            "0.118%": 0.0011771966846998124
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "38.7842566": "Valorisation",
+            "0.118%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "38.7842566": 0,
+            "0.118%": 0
+        }
+    ],
+    "PATRIMOINE OBLIGATAIRE SICAV": [
+        {
+            "100%": "Poids",
+            "N Client": 353
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "903151.7": 0,
+            "100%": 0
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "903151.7": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 7900,
+            "Column4": 101.188,
+            "903151.7": 903151.7,
+            "100%": 1
+        }
+    ],
+    "ABDELMOULA MUSTAPHA CEA 2022": [
+        {
+            "0.544%": "Poids",
+            "N Client": 356
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "304.9203685": 304.920368464998,
+            "0.544%": 0.005442137759876592
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "304.9203685": "Valorisation",
+            "0.544%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "304.9203685": 0,
+            "0.544%": 0
+        }
+    ],
+    "TUNISIE SICAV": [
+        {
+            "0.545491858": "Poids",
+            "N Client": 358
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "605911.9": 0,
+            "0.545491858": 0
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "605911.9": "Valorisation",
+            "0.545491858": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 5300,
+            "Column4": 95.162,
+            "605911.9": 605911.8999999999,
+            "0.545491858": 0.5454918580704695
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "605911.9": 504850.60000000003,
+            "0.545491858": 0.45450814192953043
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "605911.9": "Valorisation",
+            "0.545491858": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH PLUS ",
+            "Column2": 10097.012,
+            "Column3": 50,
+            "Column4": 10036.54,
+            "605911.9": 504850.60000000003,
+            "0.545491858": 0.45450814192953043
+        }
+    ],
+    "ABDELMOULA MUSTAPHA (BIAT)": [
+        {
+            "38.040%": "Poids",
+            "N Client": 359
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "3230.723705": -84.6432952999985,
+            "38.040%": -0.009966228499739051
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "3230.723705": "Valorisation",
+            "38.040%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART EQUILIBRE OBLIGATAIRE",
+            "Column2": 114.323,
+            "Column3": 29,
+            "Column4": 110.807,
+            "3230.723705": 3315.3669999999997,
+            "38.040%": 0.3903641152602307
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "OPCVM",
+            "3230.723705": 5262.2880000000005,
+            "38.040%": 0.6196021132395083
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "3230.723705": "Valorisation",
+            "38.040%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP SMART CASH",
+            "Column2": 109.631,
+            "Column3": 48,
+            "Column4": 100.231,
+            "3230.723705": 5262.2880000000005,
+            "38.040%": 0.6196021132395083
+        }
+    ],
+    "FCP SMART TRACKER FUND": [
+        {
+            "1": "Poids",
+            "N Client": 363
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "191258.5516": 191258.551618252,
+            "1": 1
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "191258.5516": "Valorisation",
+            "1": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "191258.5516": 0,
+            "1": 0
+        }
+    ],
+    "FCP AMEN SELECTION": [
+        {
+            "FCP TRACKER": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "52393.932": "Valorisation",
+            "100%": "Poids",
+            "N Client": 364
+        },
+        {
+            "FCP TRACKER": "FCP SMART TRACKER FUND",
+            "Column2": 1027.332,
+            "Column3": 51,
+            "Column4": 990.549,
+            "52393.932": 52393.93200000001,
+            "100%": 1
+        }
+    ],
+    "FCP SMART CEA": [
+        {
+            "100%": "Poids",
+            "N Client": 377
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "TRESORERIE",
+            "439402.0551": 439402.0551409,
+            "100%": 1
+        },
+        null,
+        {
+            "Tresorie +FCP EQUILIBRE": "FCP Equilibre"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": "NOMVAL",
+            "Column2": "COURS",
+            "Column3": "QTITEVAL",
+            "Column4": "COURMOY",
+            "439402.0551": "Valorisation",
+            "100%": "Poids"
+        },
+        {
+            "Tresorie +FCP EQUILIBRE": 0,
+            "Column2": 0,
+            "439402.0551": 0,
+            "100%": 0
+        }
+    ]
+}
