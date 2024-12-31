@@ -22,6 +22,8 @@ const Datagrid = (props) => {
                 const excelBuffer = XLSX.write(workbookk, { bookType: 'xlsx', type: 'array' });
                 const blob = new Blob([excelBuffer], { type: 'application/octet-stream' });
                 ExcelRenderer(blob, (err, resp) => {
+                    console.log("Rows:", rows);
+console.log("Columns:", cols);
                     if (err) {
                         console.log(err);
                     }
