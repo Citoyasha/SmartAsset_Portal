@@ -13,7 +13,7 @@ const Datagrid = () => {
         const fetchExcelFile = async () => {
             try {
                 // Fetch the file URL from the environment variable
-                const fileUrl = process.env.xslxURL;
+                const fileUrl = process.env.local.NEXT_PUBLIC_xslxURL;
                 if (!fileUrl) {
                     throw new Error("Excel file URL is not defined in environment variables");
                 }
