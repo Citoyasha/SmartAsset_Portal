@@ -15,7 +15,7 @@ const Datagrid = (props) => {
             let reader = new FileReader();
             reader.readAsArrayBuffer(res);
             reader.onload = (e) => {
-                const workbook = XLSX.read(e.target.result, { type: 'buffer' });
+                const workbook = XLSX.read(e.target.result, { type: 'blob' });
                 const worksheet = workbook.Sheets[props.username.SheetName];
                 const workbookk = XLSX.utils.book_new();
                 XLSX.utils.book_append_sheet(workbookk, worksheet, "Sheet 1")
