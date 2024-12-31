@@ -12,30 +12,28 @@ const Datagrid = () => {
     useEffect(() => {
         const fetchExcelFile = async () => {
             try {
-                // Fetch the file URL from the environment variable
-                const fileUrl = process.env.local.NEXT_PUBLIC_xslxURL;
+                const fileUrl = process.env.NEXT_PUBLIC_EXCEL_FILE_URL;
+    
                 if (!fileUrl) {
                     throw new Error("Excel file URL is not defined in environment variables");
                 }
-
-                // Fetch the file as a blob
+    
                 const response = await fetch(fileUrl);
                 if (!response.ok) {
                     throw new Error(`Failed to fetch Excel file: ${response.statusText}`);
                 }
-
+    
                 const blob = await response.blob();
-
-                // Read and process the Excel file
+    
                 let reader = new FileReader();
                 reader.readAsArrayBuffer(blob);
                 reader.onload = (e) => {
                     const workbook = XLSX.read(e.target.result, { type: 'array' });
-                    const worksheet = workbook.Sheets[workbook.SheetNames[0]]; // Adjust sheet name if needed
+                    const worksheet = workbook.Sheets[workbook.SheetNames[0]];
                     const data = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
                     const columns = data[0].map((col, idx) => ({ name: col, key: idx }));
                     const rows = data.slice(1);
-
+    
                     setCols(columns);
                     setRows(rows);
                 };
@@ -43,9 +41,10 @@ const Datagrid = () => {
                 console.error("Error fetching or processing Excel file:", error);
             }
         };
-
+    
         fetchExcelFile();
     }, []);
+    
 
     return (
         <div>
